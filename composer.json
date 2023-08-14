@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Vitaliitsarov\\Central\\CentralServiceProvider"
+                "Vitaliitsarov\\Central\\Providers\\CentralServiceProvider"
             ]
         }
     }
