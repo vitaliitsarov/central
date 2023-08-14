@@ -1,0 +1,28 @@
+{
+    "name": "bootstools-pro/central",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "senpaielaine",
+            "email": "senpaielaine.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "spatie/laravel-permission": "^5.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bootstoolspro\\Central\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bootstoolspro\\Central\\CentralServiceProvider"
+            ]
+        }
+    }
+}
