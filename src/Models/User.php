@@ -1,6 +1,6 @@
 <?php
 
-namespace Bootstoolspro\Central\Models;
+namespace Vitaliitsarov\Central\Models;
 
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Casts\Attribute;

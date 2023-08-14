@@ -1,5 +1,5 @@
 {
-    "name": "bootstools-pro/central",
+    "name": "vitaliitsarov/central",
     "description": "description",
     "minimum-stability": "stable",
     "license": "proprietary",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Bootstoolspro\\Central\\": "src"
+            "Vitaliitsarov\\Central\\": "src"
         }
     },
     "extra": {
