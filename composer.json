@@ -2,7 +2,7 @@
     "name": "vitaliitsarov/central",
     "description": "description",
     "minimum-stability": "stable",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "senpaielaine",
@@ -10,8 +10,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
-        "spatie/laravel-permission": "^5.10"
+        "php": "^8.1"
     },
     "autoload": {
         "psr-4": {
